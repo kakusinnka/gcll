@@ -7,4 +7,4 @@
 * mvn 打包：mvn clean package
 * 右键 Dockerfile -> build image -> [gcr.io/my-project-29437-364300/gcll:latest]
 * Ctrl + Shift + P -> Docker push -> [gcr.io/my-project-29437-364300/gcll:latest]
-* 部署到 Cloud Run
+* 部署到 Cloud Run 这是一个 Job。
